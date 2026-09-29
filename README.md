@@ -1,4 +1,4 @@
-#Simple matrix calculator
+# Simple matrix calculator
 Uses python with flask and a bit of html to generate the webpage.
 
 Has all simple matrix operations for both 2x2 and 3x3 matrixes.
